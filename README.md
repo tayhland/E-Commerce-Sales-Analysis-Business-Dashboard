@@ -1,7 +1,7 @@
 # E-Commerce-Sales-Analysis-Business-Dashboard
 An E-Commerce Sales Analysis project using a dataset obtained from Kaggle. The dataset was cleaned and validated by checking for missing values, inconsistencies, and correct data formats, while creating new variables where necessary. The cleaned data was then analyzed to generate business insights.
 ## Project Overview
-
+![Dataset](Dataset.png)
 This project presents an E-Commerce Sales Analysis conducted to transform raw sales data into meaningful business insights. The dataset was obtained from Kaggle and first evaluated for data quality, including missing values, inconsistencies, duplicate records, and data-format accuracy.
 
 After cleaning and validating the dataset, I analyzed the data to identify sales patterns, product category performance, regional performance, payment-method trends, and revenue trends over time. The findings were then presented through an interactive Excel dashboard designed to help businesses understand their performance and support data-driven decision-making.
@@ -329,7 +329,8 @@ I created multiple PivotTables to support different areas of the analysis, inclu
 These PivotTables provided the underlying summaries used to create the dashboard visualizations.
 
 ### Filters and Sorting
-
+![Pivot_Table_1](Pivot%20Table%201.png)
+![Pivot_Table_2](Pivot%20Table%202.png)
 I used Excel filtering and sorting features to make the analysis easier to navigate and interpret.
 
 For the **Top 10 Customer** analysis, I used the Customer ID field and applied sorting and filtering to identify the customers with the highest revenue.
@@ -351,7 +352,7 @@ For example:
 The use of different visualization types allowed numerical information to be converted into patterns that could be understood more quickly.
 
 ### Dashboard Design and Accessibility
-
+![Dashboard](dashboard.png)
 I used a **blue background** and a clear visual layout to create a consistent dashboard design and make the information easy to distinguish.
 
 The dashboard was designed with readability and simplicity in mind so that users could understand the key information without needing technical knowledge of data analysis or Excel.
